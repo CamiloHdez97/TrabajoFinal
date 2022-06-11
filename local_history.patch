@@ -1,0 +1,17 @@
+Index: src/main/resources/static/css/sb-admin-2.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/resources/static/css/sb-admin-2.css b/src/main/resources/static/css/sb-admin-2.css
+--- a/src/main/resources/static/css/sb-admin-2.css	
++++ b/src/main/resources/static/css/sb-admin-2.css	(date 1654983785037)
+@@ -10861,7 +10861,7 @@
+ }
+ 
+ .bg-login-image {
+-  background: url("https://t3.ftcdn.net/jpg/02/49/46/26/360_F_249462686_zoCl0HE0EFs6KWlabqp6eoOT5aKCedqU.jpg");
++  background: url("https://roncalibio.com/wp-content/uploads/2019/08/Ron-Hacienda-Calibio-PX-1-600x800.jpg");
+   background-position: center;
+   background-size: cover;
+ }
