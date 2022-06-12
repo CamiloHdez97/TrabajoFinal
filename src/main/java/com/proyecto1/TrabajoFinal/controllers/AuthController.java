@@ -17,6 +17,7 @@ public class AuthController {
     @Autowired
     private JWTUtil jwtUtil;
 
+    //Crear Token
     @RequestMapping(value = "api/login", method = RequestMethod.POST)
     public String login(@RequestBody Usuario usuario) {
 
